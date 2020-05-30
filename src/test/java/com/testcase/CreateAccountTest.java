@@ -50,7 +50,6 @@ public class CreateAccountTest {
 	@Test
 	@TmsLink("test-2")
 	public void createAccountExample1() {
-		Assert.fail("Fail");
 	}
 
 	@Story("Test create account test2")
