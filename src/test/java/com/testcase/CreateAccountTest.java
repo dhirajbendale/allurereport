@@ -16,7 +16,7 @@ import io.qameta.allure.SeverityLevel;
 import io.qameta.allure.Story;
 import io.qameta.allure.TmsLink;
 
-
+// Add test case comments
 @Epic("Allure examples")
 @Feature("April-Sprint")
 public class CreateAccountTest {
